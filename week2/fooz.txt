@@ -1,0 +1,4 @@
+this is some text.
+This is another line.
+"Third line.\nFourth line." 
+'Third line.\nFourth line.' 
